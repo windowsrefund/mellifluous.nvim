@@ -22,6 +22,7 @@ return {
         neotest = true,
         lazy = true,
         mason = true,
+        nvim_dap_ui = true,
     },
     dim_inactive = false,
     styles = { -- see :h attr-list for options. set {} for NONE, { option = true } for option
